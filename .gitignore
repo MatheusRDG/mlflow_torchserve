@@ -3,3 +3,4 @@ models
 model_training
 commands.txt
 __pycache__
+data
